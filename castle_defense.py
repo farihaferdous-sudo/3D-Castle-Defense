@@ -642,13 +642,13 @@ def keyboardListener(key, x, y):
     player_angle %= 360
 
     if key == 'w':
-        rad = math.radians(player_angle)
-        player_pos[0] += move_speed * math.sin(rad)
-        player_pos[1] += move_speed * math.cos(rad)
+        rad = math.radians(player_angle + 90)
+        player_pos[0] += move_speed * math.cos(rad)
+        player_pos[1] += move_speed * math.sin(rad)
     elif key == 's':
-        rad = math.radians(player_angle)
-        player_pos[0] -= move_speed * math.sin(rad)
-        player_pos[1] -= move_speed * math.cos(rad)
+        rad = math.radians(player_angle + 90)
+        player_pos[0] -= move_speed * math.cos(rad)
+        player_pos[1] -= move_speed * math.sin(rad)
     elif key == 'a':
         player_angle += 5   # rotate gun left
     elif key == 'd':
@@ -824,3 +824,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
