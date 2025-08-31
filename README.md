@@ -11,7 +11,7 @@ Enemy waves – Spawn enemies in groups moving toward the castle.
 
 Castle walls with HP – Enemies damage the wall if they reach it.
 
-Defeat conditions – lose when HP = 0.
+Defeat condition – lose when HP = 0.
 
 
 
