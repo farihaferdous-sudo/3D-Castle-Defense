@@ -5,11 +5,11 @@ CSE423 project
 Defend your castle from enemies
 
 Core Gameplay 
-Player movement & shooting – Move around castle, shoot bullets.
+Player movement & shooting – Move around castle, shoot bullets. Controlled by the player (A/D for left-right rotation, W/S for up-down). The left mouse fires bullets from the gun tip.
 
 Enemy waves – Spawn enemies in groups moving toward the castle.
 
-Castle walls with HP – Enemies damage the wall if they reach it.
+Castle walls with HP – Enemies damage the wall if they reach it. HP will be decreased by 10 with each collision.
 
 Defeat condition – lose when HP = 0.
 
@@ -19,15 +19,14 @@ Castle & Resources
 
 Resource system (Gold) – Earn gold for each enemy killed.
 
-Castle repairs – Spend gold to repair castle walls.
-
+Castle repairs – Spend gold to repair castle walls. Press ‘g’ to buy HP in exchange of 5 golds for each HP. 
 
 
 Diplomacy Features (White Flag system)
 
-White flag raising – Press a key to raise a flag (draw a white rectangle/pole).
+White flag raising – Press ‘f’ key to raise a white flag. The flag can be used a maximum of 5 times.
 
-Temporary ceasefire – Enemies respect the flag and pause for 10 seconds.
+Temporary ceasefire – Enemies respect the flag and pause for 10 seconds. The player can clear the enemies surrounding the castle meanwhile by shooting at them.
 
 Healing during the flag – Castle slowly heals while the flag is up (but enemies regroup).
 
