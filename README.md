@@ -5,6 +5,7 @@ CSE423 project
 Defend your castle from enemies
 
 Core Gameplay 
+
 Player movement & shooting – Move around castle, shoot bullets. Controlled by the player (A/D for left-right rotation, W/S for up-down). The left mouse fires bullets from the gun tip.
 
 Enemy waves – Spawn enemies in groups moving toward the castle.
