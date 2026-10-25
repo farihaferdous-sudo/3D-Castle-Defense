@@ -81,5 +81,5 @@ The main goal is to defend the castle, survive enemy waves, manage resources eff
 
 ## Conclusion
 
-This game combines combat, resource management, diplomacy mechanics, and visual atmosphere to create a dynamic defensive gameplay experience. The player must adapt to increasing pressure, manage healing and upgrades, and make strategic decisions to survive.
+This game combines combat, resource management, diplomacy mechanics and visual atmosphere to create a dynamic defensive gameplay experience. The player must adapt to increasing pressure, manage healing and upgrades, and make strategic decisions to survive.
 
