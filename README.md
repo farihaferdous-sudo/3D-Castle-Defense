@@ -4,7 +4,7 @@
 Defend your castle from enemies and survive increasingly difficult enemy waves.
 
 <p align="center">
-  <img src="castle-defense-preview.png" alt="Castle Defense Game" width="900">
+  <img src="castle-defense-preview.png" alt="Castle Defense Game" width="500">
 </p>
 
 
