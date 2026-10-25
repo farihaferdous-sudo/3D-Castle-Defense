@@ -3,6 +3,8 @@
 
 Defend your castle from enemies and survive increasingly difficult enemy waves.
 
+![Castle Defense Game](castle-defense-preview.png)
+
 ## Overview
 
 In this game, the player must protect the castle from incoming enemies by attacking them while managing the castle’s health and resources. The game combines combat, strategy and survival mechanics, giving the player the ability to fight enemies, repair the castle and use special defensive tools during critical moments.
