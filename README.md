@@ -3,7 +3,7 @@
 
 Defend your castle from enemies and survive increasingly difficult enemy waves.
 
-![Castle Defense Game](castle-defense-preview.png)
+![Castle Defense Game]()
 
 ## Overview
 
